@@ -1,4 +1,4 @@
-### Only Prototype
+### Still in Prototype
 
 ## Install Pygame
 
